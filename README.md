@@ -161,8 +161,7 @@ I'm especially interested in opportunities where I can contribute to security an
 GitHub:
 https://github.com/faizalabdulmanaf0-hue
 
-LinkedIn:
-[Add your LinkedIn profile here]
+LinkedIn: "Faizal Abdul Manaf — LinkedIn" (https://reference-url-citation.invalid/1)
 
 ---
 
