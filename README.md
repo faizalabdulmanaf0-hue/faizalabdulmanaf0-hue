@@ -1,17 +1,10 @@
-👋 Hi, I'm Faizal
+👋 Hi, I'm Faizal Abdul Manaf
 
-🔐 Web3 Security | Security Research | Risk & Governance
+🔐 Web3 Security | Risk Analysis | AI Security
 
-I build practical security research projects focused on:
+I build practical security research projects focused on Web3 security, smart contract business logic, security risk analysis, and AI security & governance.
 
-- Web3 & smart contract security
-- Security risk analysis
-- Business logic analysis
-- AI security & governance
-- Security control assessment
-- Python-based security automation
-
-My approach is focused on understanding how security decisions are made, identifying weaknesses in the logic, and validating security assumptions through testing.
+My approach is to analyze security logic, identify weaknesses, build controlled security scenarios, and validate the results through automated testing.
 
 ---
 
@@ -19,12 +12,12 @@ My approach is focused on understanding how security decisions are made, identif
 
 🔐 Web3 Transaction Risk Engine
 
-Python-based risk analysis engine for evaluating Web3 transaction risk using multiple security indicators.
+A Python-based security risk engine for analyzing Web3 transaction risk.
 
 Focus:
 
 - Transaction risk scoring
-- Wallet behavior
+- Wallet behavior analysis
 - Contract verification
 - Blacklist detection
 - Security decision logic
@@ -35,16 +28,16 @@ Focus:
 
 🤖 AI Security & Governance Risk Engine
 
-Python-based engine for evaluating governance and security risks in AI decision systems.
+A Python-based engine for analyzing security and governance risks in AI decision systems.
 
 Focus:
 
-- Model confidence
-- Sensitive data
+- AI risk analysis
+- Governance controls
 - Bias detection
+- Sensitive data considerations
 - Human oversight
-- High-impact decisions
-- Governance risk scoring
+- Security decision logic
 
 "View Project" (https://github.com/faizalabdulmanaf0-hue/governance_engine.py)
 
@@ -52,7 +45,7 @@ Focus:
 
 🔐 Smart Contract Business Logic Security Lab
 
-Security research laboratory focused on smart contract business logic vulnerabilities.
+A controlled security research laboratory focused on smart contract business logic vulnerabilities.
 
 Focus:
 
@@ -71,16 +64,17 @@ The project includes vulnerable and secure implementations, security findings, a
 
 🛡️ Security Risk & Control Assessment Lab
 
-Python-based security assessment engine for evaluating risk, security controls, control gaps, and mitigation recommendations.
+A Python-based security assessment engine for evaluating security risk, control effectiveness, control gaps, and mitigation recommendations.
 
 Focus:
 
 - Risk scoring
 - Risk classification
-- Control effectiveness
+- Control assessment
 - Control gap analysis
 - Mitigation recommendations
 - Automated security testing
+- Continuous integration
 
 "View Project" (https://github.com/faizalabdulmanaf0-hue/security-risk-control-assessment-lab)
 
@@ -95,7 +89,7 @@ Security
 - Business Logic Analysis
 - Risk Assessment
 - Threat Modeling
-- Access Control
+- Access Control Analysis
 - Security Testing
 
 Programming
@@ -104,7 +98,7 @@ Programming
 - Solidity
 - SQL
 
-Security Tools & Workflow
+Tools & Workflow
 
 - Git
 - GitHub
@@ -113,15 +107,15 @@ Security Tools & Workflow
 
 AI Security
 
+- AI Security
 - AI Governance
 - AI Risk Analysis
 - Bias Detection
-- Prompt Security
 - Model Risk
 
 ---
 
-📊 Security Research Workflow
+🔬 Security Research Workflow
 
 Security Problem
        ↓
@@ -133,7 +127,7 @@ Implementation
        ↓
 Security Testing
        ↓
-Finding
+Security Finding
        ↓
 Mitigation
        ↓
@@ -143,7 +137,7 @@ Automated Validation
 
 🎯 Currently Looking For
 
-I'm currently open to remote opportunities in:
+I'm open to remote opportunities in:
 
 - Web3 Security
 - Smart Contract Security
@@ -152,7 +146,7 @@ I'm currently open to remote opportunities in:
 - Security / Risk Analyst
 - AI Security & Governance
 
-I'm especially interested in opportunities where I can contribute to security analysis while continuing to grow through real-world security research.
+I'm particularly interested in roles where I can contribute to security analysis, risk assessment, and practical security research.
 
 ---
 
@@ -161,7 +155,8 @@ I'm especially interested in opportunities where I can contribute to security an
 GitHub:
 https://github.com/faizalabdulmanaf0-hue
 
-LinkedIn: "Faizal Abdul Manaf — LinkedIn" (https://reference-url-citation.invalid/1)
+LinkedIn:
+https://www.linkedin.com/in/faizal-abdul-manaf-19b172314
 
 ---
 
